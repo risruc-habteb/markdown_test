@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td> ::  old </td> <td> ::  new </td>
+<td> `::  old` </td> <td> `::  new` </td>
 </tr>
 <tr>
 <td>
