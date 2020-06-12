@@ -5,21 +5,21 @@
   `::  old`
   
   </td> <td>
-  
+
   `::  new`
-  
+
   </td>
 </tr>
 <tr>
 <td>
-  
+
   ```
   +$  versioned-state
     $%  state-zero
   ==
     
   ```
-  
+
   </td>
 <td>
 
