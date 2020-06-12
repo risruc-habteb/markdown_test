@@ -3,11 +3,9 @@
 <td>
   
   `::  old`
-  
   </td> <td>
 
   `::  new`
-
   </td>
 </tr>
 <tr>
