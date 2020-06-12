@@ -13,19 +13,21 @@ old | new
 <tr>
 <td>
   
-  ```+$  versioned-state
-  $%  state-zero
+  ```
+  +$  versioned-state
+    $%  state-zero
   ==
   ```
   
   </td>
 <td>
 
-```+$  versioned-state
+```
++$  versioned-state
   $%  state-zero
-      state-one
-  ==
-  ```
+    state-one
+==
+```
 
 </td>
 </tr>
