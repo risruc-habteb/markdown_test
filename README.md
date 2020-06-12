@@ -15,7 +15,8 @@ old | new
   
   ```+$  versioned-state
   $%  state-zero
-  ==```
+  ==
+  ```
   
   </td>
 <td>
@@ -24,15 +25,7 @@ old | new
   $%  state-zero
       state-one
   ==
-```
-
-</td>
-</tr>
-<tr>
-<td> 400 </td>
-<td>
-
-**Markdown** _here_. (Blank lines needed before and after!)
+  ```
 
 </td>
 </tr>
