@@ -17,6 +17,7 @@ old | new
   +$  versioned-state
     $%  state-zero
   ==
+    
   ```
   
   </td>
